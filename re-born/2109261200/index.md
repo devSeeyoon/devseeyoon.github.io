@@ -7,7 +7,7 @@ title: 일급 객체, 함수 표현식, 함수 선언식, 스코프, 클로저, 
 subtitle: 벌써 뭔가 머리가 아파온다
 writer: 000000
 post-header: true
-header-img : 2109261200.png
+header-img : img/about.png
 hash-tag: [Javascript, 일급 객체, 함수 표현식, 함수 선언식, 스코프, 클로저, 원시 자료형, 참조 자료형]
 ---
 >
