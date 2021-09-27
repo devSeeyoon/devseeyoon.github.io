@@ -7,7 +7,7 @@ title: 변수, 함수, 조건문, 배열, 객체, 문자열 메소드
 subtitle: 초심을 찾으러 바다로 갈까나~
 writer: 000000
 post-header: true
-header-img: img/about.jpg
+header-img: img/about.jpeg
 hash-tag: [Javascript, 변수, 함수, 조건문, 배열, 객체, 문자열, 메소드]
 ---
 >장기간 퍼블리셔 역할을 하느라 소홀해진 자바스크립트와 리액트 기초에 대해 다시 공부해 보는 시간을 갖는다.
