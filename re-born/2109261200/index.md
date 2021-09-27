@@ -7,6 +7,7 @@ title: 일급 객체, 함수 표현식, 함수 선언식, 스코프, 클로저, 
 subtitle: 초심을 찾으러 바다로 갈까나~
 writer: 000000
 post-header: false
+header-img : null
 hash-tag: [Javascript, 일급 객체, 함수 표현식, 함수 선언식, 스코프, 클로저, 원시 자료형, 참조 자료형]
 ---
 >
