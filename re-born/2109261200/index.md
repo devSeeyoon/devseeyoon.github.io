@@ -4,10 +4,10 @@ type: tech
 date: 2021-09-26 21:20
 category: Javascript
 title: 일급 객체, 함수 표현식, 함수 선언식, 스코프, 클로저, 원시 자료형, 참조 자료형
-subtitle: 초심을 찾으러 바다로 갈까나~
+subtitle: 벌써 뭔가 머리가 아파온다
 writer: 000000
-post-header: false
-header-img : null
+post-header: true
+header-img : 2109261200.png
 hash-tag: [Javascript, 일급 객체, 함수 표현식, 함수 선언식, 스코프, 클로저, 원시 자료형, 참조 자료형]
 ---
 >
