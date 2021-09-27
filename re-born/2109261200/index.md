@@ -1,9 +1,18 @@
 ---
 layout: post
-title: "Re-Born : 일급 객체, 함수 표현식, 함수 선언식, 스코프, 클로저, 원시 자료형, 참조 자료형"
+type: tech
+date: 2021-09-26 21:20
+category: Javascript
+title: 일급 객체, 함수 표현식, 함수 선언식, 스코프, 클로저, 원시 자료형, 참조 자료형
+subtitle: 초심을 찾으러 바다로 갈까나~
+writer: 000000
+post-header: false
+hash-tag: [Javascript, 일급 객체, 함수 표현식, 함수 선언식, 스코프, 클로저, 원시 자료형, 참조 자료형]
 ---
+>
 
 
+---
 
 ### 일급 객체
 
