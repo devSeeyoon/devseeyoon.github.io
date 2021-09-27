@@ -38,9 +38,9 @@ title: 자기소개
             <div class="content">
                 <h1 class="subtitle">Skills</h1>
                 <ul class="environment">
-                    <li><b>>Strong :</b> Javascript, React, CSS/SCSS, HTML</li>
+                    <li><b>Strong :</b> Javascript, React, CSS/SCSS, HTML</li>
                     <li><b>Knowledgeable :</b>Node.js, Express, mySQL, AWS</li>
-                    <li><b>ETC : Notion, Slack, miro, figma, git, photoshop, premiere</b></li>
+                    <li><b>ETC :</b> Notion, Slack, miro, figma, git, photoshop, premiere</li>
                 </ul>
             </div>
         </div>
