@@ -1,6 +1,6 @@
 ---
 layout: post
-type: tech
+type: re-born
 date: 2021-09-26 21:20
 category: Javascript
 title: 일급 객체, 함수 표현식, 함수 선언식, 스코프, 클로저, 원시 자료형, 참조 자료형
