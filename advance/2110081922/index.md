@@ -1,7 +1,7 @@
 ---
 layout: post
 type: advance
-date: 2021-10-08 16:53
+date: 2021-10-08 19:22
 draft: false
 category: Typescript
 title: 함수 rest 파라미터
