@@ -5,7 +5,7 @@ date: 2021-10-08 16:12
 draft: false
 category: Typescript
 title: 타입스크립트 컴파일 세부설정
-subtitle: JavaScript Superset
+subtitle: tsconfig를 잘 써야 멍청이가 되지 않습니다
 writer: 000000
 post-header: true
 header-img : img/about.jpeg
@@ -49,7 +49,7 @@ hash-tag: [Javascript, Typescript]
 
 
 
-- noImplicitAny : any타입이 의도치 않게 발생할 경우 에러메세지를 표시한다
+- noImplicitAny : any타입이 의도치 않게 발생할 경우 에러메세지를 표시한다 (보통 추론의 경우)
 
 
 
