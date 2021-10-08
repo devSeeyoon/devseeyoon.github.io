@@ -8,7 +8,7 @@ title: 함수 rest 파라미터
 subtitle: 그리고 destructuring 할 때 타입 지정하기
 writer: 000000
 post-header: true
-header-img : img/about.jpeg
+header-img : img/about.jpg
 hash-tag: [Javascript, Typescript]
 ---
 
