@@ -5,6 +5,12 @@
       <div class="content">
         <table class="catalogue">
           <tr>
+            {% assign sorted = site.pages | sort: 'date' | reverse | where: 'type', 'advance' %}
+            {% for page in sorted limit:4 %}
+            {% include post-card.html %}
+            {% endfor %}
+          </tr>
+          <tr>
             {% assign sorted = site.pages | sort: 'date' | reverse | where: 'type', 're-born' %}
             {% for page in sorted limit:4 %}
             {% include post-card.html %}
