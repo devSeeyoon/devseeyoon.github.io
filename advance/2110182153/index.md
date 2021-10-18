@@ -1,7 +1,7 @@
 ---
 layout: post
 type: advance
-date: 2021-10-14 23:25
+date: 2021-10-18 21:53
 draft: false
 category: Typescript
 title: never타입은 무엇인가
