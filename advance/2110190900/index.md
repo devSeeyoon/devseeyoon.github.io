@@ -1,14 +1,14 @@
 ---
 layout: post
 type: advance
-date: 2021-10-19 00:00
+date: 2021-10-19 09:00
 draft: false
 category: Typescript
 title: Public, Private
 subtitle: 은근히 중요합니다
 writer: 000000
 post-header: true
-header-img : img/about.jpeg
+header-img : img/about.jpg
 hash-tag: [Javascript, Typescript]
 
 ---
