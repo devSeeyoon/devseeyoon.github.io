@@ -5,4 +5,13 @@
   label: Re-Born
 
 - id: advance
-  label: advance
+  label: TypeScript
+
+- id: UX
+  label: UI/UX
+
+- id: vue
+  label: Vue.js
+
+- id: nextjs
+  label: Next.js
