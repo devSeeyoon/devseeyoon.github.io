@@ -9,7 +9,7 @@ main: true
 {% include hashtag.html %}
 
 <ul class="catalogue">
-{% assign sorted = site.pages | sort: 'date' | reverse | where: 'type', 're-born' %}
+{% assign sorted = site.pages | sort: 'date' | reverse | where: 'type', 'UX' %}
 {% for page in sorted %}
 {% include post-list.html %}
 {% endfor %}
